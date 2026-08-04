@@ -1,0 +1,16 @@
+python-dotenv
+requests
+numpy
+moviepy
+Pillow
+google-genai
+openai
+edge-tts
+gTTS
+pydub
+pydantic
+trafilatura
+faster-whisper
+streamlit
+json-repair
+ddgs
